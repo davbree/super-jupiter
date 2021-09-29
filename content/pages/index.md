@@ -104,7 +104,7 @@ sections:
     badge:
       label: Small text
     title: The Section Title
-    subtitle: The section subtitle
+    subtitle: The section subtitledsd
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
